@@ -1,0 +1,8 @@
+Commande git utilisé 
+
+
+git clone git@github.com:StiBibo/etabV1.git
+git branch main
+git add .
+git commit -m "Second commit"
+git push origin main
